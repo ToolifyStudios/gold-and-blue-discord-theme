@@ -13,3 +13,4 @@
 
 1. Go to the **Themes** tab
 2. Enter this URL: `https://raw.githubusercontent.com/ToolifyStudios/gold-and-blue-discord-theme/main/css.css`
+3. Restart Discord (`Ctrl` `R`)
