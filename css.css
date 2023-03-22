@@ -1,52 +1,52 @@
 /* Change the background color of the chat window */
 .chat-3bRxxu {
-  background-color: #16213e !important;
+  background-color: #1E293D !important;
 }
 
 /* Change the color of text in the chat window */
 .markup-2BOw-j, .messageContent-2qWWxC {
-  color: #fff !important;
+  color: #EAEAEA !important;
 }
 
 /* Change the color of the username in the chat window */
 .username-1A8OIy {
-  color: #ffd700 !important;
+  color: #FFD700 !important;
 }
 
 /* Change the color of the user's status dot */
 .status-oxiHuE {
-  background-color: #ffd700 !important;
+  background-color: #FFD700 !important;
 }
 
 /* Change the color of the online status text */
 .statusOnline-2DPLK4 {
-  color: #ffd700 !important;
+  color: #FFD700 !important;
 }
 
 /* Change the color of the server name */
 .wrapper-3t9DeA .name-3_Dsmg {
-  color: #ffd700 !important;
+  color: #FFD700 !important;
 }
 
 /* Change the color of the channel name */
 .channelName-2YrO-r {
-  color: #fff !important;
+  color: #EAEAEA !important;
 }
 
 /* Change the color of the message input box */
 #app-mount .channelTextArea-2ACAl7 .inner-2ilngV {
-  background-color: #1e293f !important;
-  color: #fff !important;
+  background-color: #283c5f !important;
+  color: #EAEAEA !important;
 }
 
 /* Change the color of the send button */
 #app-mount .channelTextArea-2ACAl7 .buttonContainer-2ni8SH button {
-  background-color: #ffd700 !important;
-  color: #fff !important;
+  background-color: #FFD700 !important;
+  color: #EAEAEA !important;
 }
 
 /* Change the color of the selected message in the chat window */
 /* Note: This only works with BetterDiscord installed */
 .theme-dark .selected-2F3ZgS {
-  background-color: #3d4d71 !important;
+  background-color: #3A4B76 !important;
 }
